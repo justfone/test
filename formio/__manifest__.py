@@ -2,7 +2,7 @@
 # See LICENSE file for full licensing details.
 
 {
-    'name': 'Forms',
+    'name': 'Forms V2',
     'summary': 'Form Builder & integration of professional and versatile Forms to collect any information you need for your business.',
     'version': '9.24',
     'license': 'LGPL-3',
